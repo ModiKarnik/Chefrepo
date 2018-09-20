@@ -1,0 +1,3 @@
+
+default["sampleattributevariable"] = "Karnik Modi"
+
